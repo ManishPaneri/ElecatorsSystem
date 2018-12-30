@@ -7,7 +7,7 @@ package elecatorssystem;
 
 /**
  *
- * @author krazybee
+ * @author manish
  */
 public class MyLift {
 
