@@ -9,7 +9,7 @@ import java.util.TreeSet;
 
 /**
  *
- * @author krazybee
+ * @author manish
  */
 public class Elevator {
     private static Elevator elevator = null; 
